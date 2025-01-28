@@ -1,0 +1,61 @@
+-------------------------------------------------------- POWER BI ----------------------------------------------
+
+Q) what is Power BI?
+--> Power BI is a business analytics tool developed by Microsoft that allows users to connect to various 
+    data sources, transform and model data, and create visually engaging dashboards and reports. 
+    It helps organizations analyze data and share insights to make data-driven decisions.
+
+
+
+Q) Key Features of Power BI:
+1st--> Data Connection:
+        Connect to multiple data sources (e.g., Excel, databases, cloud services, APIs, etc.).
+        Integrate with Microsoft tools like Excel, SharePoint, and Azure seamlessly.
+
+2nd--> Data Transformation:
+        Use Power Query to clean, shape, and prepare data for analysis.
+
+3rd--> Data Visualization:
+        Create interactive dashboards and visual reports using charts, graphs, and maps.
+        Use drag-and-drop features to design your dashboards easily.
+
+4th--> Real-Time Analysis:
+        Analyze and visualize data in real-time to make quick decisions.
+
+5th--> AI and Machine Learning:
+        Integrates with AI tools to gain deeper insights and use predictive analytics.
+
+6th--> Collaboration:
+        Share reports and dashboards across teams via Power BI Service or apps.
+        Embed reports into other applications or websites.
+
+7th--> Mobile Access:
+        Use the Power BI mobile app to view and interact with reports on the go.
+
+
+
+
+Q) Power BI Components:
+1st--> Power BI Desktop:
+        The main tool for creating reports and dashboards (used by developers and analysts).
+
+2nd--> Power BI Service:
+        A cloud-based platform to share, collaborate, and distribute dashboards.
+
+3rd--> Power BI Mobile:
+        Mobile apps for accessing dashboards and reports.
+
+4th--> Power BI Embedded:
+        Embedding Power BI analytics into custom applications.
+
+5th--> Power BI Report Builder:
+        For creating paginated reports designed for printing or detailed data views.
+
+
+
+------------------------- Use Cases of Power BI:
+--> Hotel record analysis (like your project!)
+--> Sales and revenue tracking
+--> Marketing campaign performance
+--> Employee performance analytics
+--> Financial reporting
