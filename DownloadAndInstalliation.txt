@@ -1,0 +1,10 @@
+step 1:- download Microsoft power bi
+step 2:- Advance download option
+step 3:- when a new page is opened you have to select any language
+step 4:- now click on download option (of the compatable bit)
+step 5:- after download completed accept the licence get ready to work
+
+note :- after opening the power bi software at the top you can see sign in option that is very important option 
+          (you cannot do normal sign in this you need organizations email id)
+          organizations email id example:-
+           piyushkumar394@__________(in the place of blank space you need indistrial domain name)
