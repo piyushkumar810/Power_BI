@@ -6,7 +6,6 @@ Q) what is Power BI?
     It helps organizations analyze data and share insights to make data-driven decisions.
 
 
-
 Q) Key Features of Power BI:
 1st--> Data Connection:
         Connect to multiple data sources (e.g., Excel, databases, cloud services, APIs, etc.).
@@ -31,7 +30,6 @@ Q) Key Features of Power BI:
 
 7th--> Mobile Access:
         Use the Power BI mobile app to view and interact with reports on the go.
-
 
 
 
