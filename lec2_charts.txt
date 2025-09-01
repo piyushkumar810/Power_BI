@@ -1,0 +1,10 @@
+/------------------------------ charts in power bi ----------------------------/ 
+
+there are lots of chart used in power Bi but majourly used is:- 
+1st -> column chart
+2nd -> stacked column chart
+3rd -> pie chart
+4th -> donut chart
+5th -> funnel chart
+6th -> Ribbon chart
+
