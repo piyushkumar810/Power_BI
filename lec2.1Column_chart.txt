@@ -1,0 +1,17 @@
+/------------------   column chart -----------------/
+1. Column Chart
+--> A Column Chart displays data using vertical bars where the length of each bar represents the value.
+--> It’s best when you want to compare individual categories.
+    Example: If you have sales by product, each product will have a separate bar showing its sales.
+
+🔹 Use case:
+Comparing sales of Product A, Product B, and Product C individually.
+
+2. Stacked Column Chart
+--> A Stacked Column Chart also uses vertical bars, but it divides each bar into segments (stacked portions) 
+    to show sub-categories within a category.
+
+Example: Sales by product (main category) further broken into regions (subcategories).
+
+🔹 Use case:
+If you want to see total sales per product, and how much each region contributes inside that product’s total.
