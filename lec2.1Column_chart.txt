@@ -1,4 +1,4 @@
-/------------------   column chart -----------------/
+
 1. Column Chart
 --> A Column Chart displays data using vertical bars where the length of each bar represents the value.
 --> It’s best when you want to compare individual categories.
