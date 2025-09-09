@@ -15,3 +15,32 @@ Example: Sales by product (main category) further broken into regions (subcatego
 
 🔹 Use case:
 If you want to see total sales per product, and how much each region contributes inside that product’s total.
+
+
+3. Pie Chart 🥧
+
+What it is: A circular chart divided into slices.
+Purpose: Shows the proportion of each category relative to the whole (100%).
+Best for: Simple part-to-whole comparisons with few categories (2–6).
+Example: Market share of companies in a sector.
+
+4. Donut Chart 🍩
+
+What it is: Similar to a pie chart but with a hole in the middle.
+Purpose: Same as a pie chart (part-to-whole comparison), but the hole allows you to Place a label/total in the center.
+        Compare multiple donut charts side by side more easily.
+Best for: Cleaner visuals than pie chart, and when you want to highlight totals in the middle.
+
+5. Funnel Chart 🔻
+
+What it is: A chart shaped like a funnel (wide at top, narrow at bottom).
+Purpose: Shows data progression through stages and how values decrease step by step.
+Best for: Visualizing conversion rates, drop-offs, or filtering processes.
+Example: Sales pipeline → Leads → Opportunities → Customers.
+
+6. Ribbon Chart 🎀
+
+What it is: Similar to a stacked column chart but with ribbons connecting ranks across categories.
+Purpose: Used to visualize rankings over time or across different categories.
+Best for: Highlighting which category leads at a certain point and how rankings change.
+Example: Which product was top-selling each month, and how the ranking of others changed.
