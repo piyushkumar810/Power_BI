@@ -16,7 +16,6 @@ Example: Sales by product (main category) further broken into regions (subcatego
 🔹 Use case:
 If you want to see total sales per product, and how much each region contributes inside that product’s total.
 
-
 3. Pie Chart 🥧
 
 What it is: A circular chart divided into slices.
